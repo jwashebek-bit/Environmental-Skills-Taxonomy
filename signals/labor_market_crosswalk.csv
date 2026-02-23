@@ -1,0 +1,19 @@
+﻿LABOR MARKET CROSSWALK,,,,,,,
+"Profession Family → BLS SOC Code mapping | Mapping Quality: High=near 1:1 alignment, Medium=partial, Low=fragmented/undercounted",,,,,,,
+"NOTE: Low-quality mappings indicate where BLS occupational classification systematically undercounts environmental workforce. These are gaps in the labor market data infrastructure, not gaps in the taxonomy.",,,,,,,
+Family Code,Family Name,Primary SOC Code,Primary SOC Title,Secondary SOC Code,Secondary SOC Title,Mapping Notes,Mapping Quality
+F1,Forestry,19-1032,Foresters,19-1031,Conservation Scientists,Strong — SAF accreditation aligns with SOC definitions,High
+F2,Wildlife & Fisheries,19-1023,Zoologists & Wildlife Biologists,19-1031,Conservation Scientists,Strong — primary SOC captures most roles,High
+F3,Ecological Restoration,19-1031,Conservation Scientists,17-2081,Environmental Engineers,Partial — restoration spans multiple SOC codes,Medium
+F4,Water Resources,19-2043,Hydrologists,17-2081,Environmental Engineers,Strong for science side; engineering roles captured by 17-2081,High
+F5,Conservation Science,19-1031,Conservation Scientists,19-1023,Zoologists & Wildlife Biologists,Multiple SOC codes needed for full coverage,Medium
+F6,Climate Science,19-2021,Atmospheric & Space Scientists,19-1031,Conservation Scientists,Partial — climate adaptation roles span many SOC codes,Medium
+F7,Environmental Data Science,15-2051,Data Scientists,19-1031,Conservation Scientists,Low — no dedicated environmental informatics SOC code; BLS undercounts,Low
+F8,Environmental Policy,23-1011,Lawyers,11-9199,Managers NEC,Fragmented — policy roles appear across many management and legal SOC codes,Low
+F9,Land Use Planning,19-3051,Urban & Regional Planners,,,Strong — near 1:1 with 19-3051,High
+F10,Sustainable Agriculture,19-1012,Farm & Home Mgmt Educators,19-1031,Conservation Scientists,Partial — NRCS/extension roles split across codes,Medium
+F11,Environmental Education,25-2031,Secondary School Teachers,25-4031,Library Technicians,Weak — no dedicated environmental educator SOC,Low
+F12,Fire Management,33-1021,Fire Inspectors,19-1031,Conservation Scientists,Partial — wildland fire has no dedicated SOC; undercounted,Low
+F13,Environmental Health & Justice,29-9021,Health Information Technologists,19-1031,Conservation Scientists,"Fragmented — EJ roles span health, planning, policy codes",Low
+F14,Corporate Sustainability,11-9199,Managers NEC,13-1199,Business Operations Specialists,Emerging — BLS lacks dedicated ESG/sustainability SOC,Low
+F15,Conservation Finance,13-2099,Financial Specialists NEC,19-1031,Conservation Scientists,Fragmented — novel profession not well-captured by BLS,Low
