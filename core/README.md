@@ -1,0 +1,1 @@
+Core competency architecture files.
